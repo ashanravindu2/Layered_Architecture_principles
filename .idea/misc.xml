@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tight_coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/loose_coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/dependency_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/property_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/contructor_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/setter_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/setter_method_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/interface_injection/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/property_injection/constructor_injection/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

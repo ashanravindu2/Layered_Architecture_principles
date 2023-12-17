@@ -1,0 +1,8 @@
+# Project exclude paths
+/contructor_injection/target/
+/dependency_injection/target/
+/interface_injection/target/
+/loose_coupling/target/
+/property_injection/target/
+/setter_method_injection/target/
+/tight_coupling/target/
